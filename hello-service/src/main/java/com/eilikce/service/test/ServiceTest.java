@@ -12,5 +12,4 @@ public class ServiceTest {
 	public String createString2(){
 		return "create a string2 !";
 	}
-
 }
