@@ -8,6 +8,9 @@ public class ServiceTest {
 	public String createString(){
 		return "create a string !";
 	}
+	public String createString1(){
+		return "create a string1 !";
+	}
 	
 	public String createString2(){
 		return "create a string2 !";
