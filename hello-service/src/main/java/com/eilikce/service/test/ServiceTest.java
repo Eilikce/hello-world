@@ -13,6 +13,10 @@ public class ServiceTest {
 		return "create a string2 !";
 	}
 
+	public String createString3(){
+		return "create a string3 !";
+	}
+	
 	public String createString4(){
 		return "create a string4 !";
 	}
