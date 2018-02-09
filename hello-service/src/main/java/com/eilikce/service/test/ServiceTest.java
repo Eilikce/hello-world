@@ -28,7 +28,6 @@ public class ServiceTest {
 	public String createString6(){
 		return "create a string6 !";
 	}
-	
 	public String createString7(){
 		return "create a string7 !";
 	}
