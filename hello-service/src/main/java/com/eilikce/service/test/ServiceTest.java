@@ -20,5 +20,9 @@ public class ServiceTest {
 	public String createString4(){
 		return "create a string4 !";
 	}
+
+	public String createString5(){
+		return "create a string5 !";
+	}
 	
 }
